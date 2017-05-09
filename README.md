@@ -1,0 +1,1 @@
+# accelerometer-react-native-test
